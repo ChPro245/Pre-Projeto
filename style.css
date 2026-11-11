@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    @import url('https://googleapis.com');
+    font-family: 'Poppins', sans-serif;
+    list-style: none;
+}
+
+.LOGIN {
+    background-color: antiquewhite;
+    height: 300px;
+    width: 350px;
+    border-radius: 12px;
+    margin: auto;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 30px ;
+    
+}
